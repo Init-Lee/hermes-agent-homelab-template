@@ -1,10 +1,6 @@
 # Hermes Agent Homelab Template
 
-## English Summary
-
-A safety-first Ubuntu homelab template for running a local Hermes Agent. It provides workspace boundaries, operating rules, setup flow, smoke tests, backup planning, and staged self-hosted agent workflows.
-
----
+> English: [README.en.md](README.en.md)
 
 一套面向 **Ubuntu 小主机 / Homelab / AI Agent 实验机** 的 Hermes Agent 部署与边界治理模板。
 
@@ -174,6 +170,7 @@ Agent 可以帮你做事，但不应默认获得 root 权威。
 
 | 文档 | 内容 |
 |---|---|
+| [README.en.md](README.en.md) | 英文说明 |
 | [QUICKSTART.md](QUICKSTART.md) | 逐步安装与验收 |
 | [docs/01-concept.md](docs/01-concept.md) | 马槽、热数据、冷数据与 Agent 边界 |
 | [docs/02-ubuntu-baseline.md](docs/02-ubuntu-baseline.md) | Ubuntu 机器基线 |
