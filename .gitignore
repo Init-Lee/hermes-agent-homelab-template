@@ -1,0 +1,34 @@
+# Secrets
+.env
+*.env
+*.key
+*.pem
+id_rsa
+id_ed25519
+secrets/
+private/
+
+# Hermes local data
+.hermes/
+*.log
+*.sqlite
+*.db
+
+# Backups
+*.tar.gz
+*.zip
+*.7z
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
